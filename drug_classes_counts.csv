@@ -1,0 +1,275 @@
+drug_classes,count
+Upper respiratory combinations,245
+Topical steroids,94
+Topical acne agents,88
+Nonsteroidal anti-inflammatory drugs,70
+Miscellaneous topical agents,56
+Topical rubefacient,56
+Antihistamines,55
+Topical anesthetics,54
+Laxatives,53
+Opioids (narcotic analgesics),51
+Insulin,50
+Antiviral combinations,50
+Analgesic combinations,49
+Atypical antipsychotics,41
+Antidiabetic combinations,41
+Urinary antispasmodics,41
+CNS stimulants,39
+Miscellaneous analgesics,38
+Antimigraine agents,32
+Glucocorticoids,30
+"Miscellaneous anxiolytics, sedatives and hypnotics",27
+Interleukin inhibitors,25
+"Topical acne agents, Topical keratolytics",24
+Minerals and electrolytes,24
+Topical antipsoriatics,23
+Contraceptives,22
+Narcotic analgesic combinations,22
+Proton pump inhibitors,21
+Antacids,21
+Topical non-steroidal anti-inflammatories,21
+"Anticholinergic antiemetics, Anticholinergic antiparkinson agents, Antihistamines, Miscellaneous anxiolytics, sedatives and hypnotics",20
+Calcium channel blocking agents,20
+Antidiarrheals,20
+Topical antibiotics,20
+Benzodiazepines,19
+Expectorants,19
+Bronchodilator combinations,19
+"Platelet aggregation inhibitors, Salicylates",18
+Nasal steroids,18
+Thyroid drugs,18
+H2 antagonists,18
+Incretin mimetics,18
+Angiotensin Converting Enzyme Inhibitors,18
+Statins,17
+Vitamins,17
+Tetracyclines,15
+"Calcium channel blocking agents, Group IV antiarrhythmics",15
+Quinolones,15
+TNF alfa inhibitors,15
+Bisphosphonates,14
+Protease inhibitors,14
+Tricyclic antidepressants,14
+Angiotensin receptor blockers,14
+Angiotensin II inhibitors with thiazides,14
+Viscosupplementation agents,14
+Selective serotonin reuptake inhibitors,13
+Macrolides,13
+Beta blockers with thiazides,13
+Sex hormone combinations,12
+Nutraceutical products,12
+Thiazide diuretics,12
+"Miscellaneous antimalarials, Tetracyclines",11
+NNRTIs,11
+Antirheumatics,11
+Cholinesterase inhibitors,11
+Anticholinergic bronchodilators,11
+Viral vaccines,11
+Sulfonylureas,11
+Miscellaneous antidepressants,11
+Nucleoside reverse transcriptase inhibitors (NRTIs),11
+ACE inhibitors with thiazides,10
+"Antianginal agents, Vasodilators",10
+Serotonin-norepinephrine reuptake inhibitors,10
+Third generation cephalosporins,10
+"Anorexiants, CNS stimulants",10
+Miscellaneous antivirals,10
+Cardioselective beta blockers,9
+"Antirheumatics, TNF alfa inhibitors",9
+Antianginal agents,9
+Non-cardioselective beta blockers,9
+Second generation cephalosporins,9
+Pyrrolidine anticonvulsants,9
+"Antiadrenergic agents, centrally acting",9
+Natural penicillins,9
+Allergenics,8
+Dipeptidyl peptidase 4 inhibitors,8
+Carbonic anhydrase inhibitor anticonvulsants,8
+Urinary anti-infectives,8
+SGLT-2 inhibitors,8
+Nasal antihistamines and decongestants,8
+5-aminosalicylates,8
+Alkylating agents,8
+Aminoglycosides,8
+Beta-lactamase inhibitors,8
+Potassium sparing diuretics with thiazides,7
+Salicylates,7
+Estrogens,7
+Anorectal preparations,7
+Miscellaneous antibiotics,7
+Miscellaneous central nervous system agents,7
+Miscellaneous antihypertensive combinations,7
+Integrase strand transfer inhibitor,7
+Dibenzazepine anticonvulsants,7
+Sulfonamides,6
+Angiotensin II inhibitors with calcium channel blockers,6
+Adrenergic bronchodilators,6
+ACE inhibitors with calcium channel blocking agents,6
+"Topical acne agents, Topical antibiotics",6
+Gamma-aminobutyric acid analogs,6
+"Antacids, Laxatives",6
+Glycopeptide antibiotics,6
+Monoamine oxidase inhibitors,6
+"Miscellaneous antineoplastics, Miscellaneous uncategorized agents",6
+"Antacids, Minerals and electrolytes",6
+Topical emollients,6
+"Antirheumatics, Selective immunosuppressants",6
+Vitamin and mineral combinations,6
+First generation cephalosporins,6
+Psychotherapeutic combinations,6
+Impotence agents,6
+Topical antihistamines,5
+Lincomycin derivatives,5
+"Impotence agents, Vasodilators",5
+Topical anti-infectives,5
+Topical steroids with anti-infectives,5
+Heparins,5
+Fatty acid derivative anticonvulsants,5
+Mitotic inhibitors,5
+Penicillinase resistant penicillins,5
+Fibric acid derivatives,5
+Antihyperlipidemic combinations,5
+"Antihistamines, Phenothiazine antiemetics",5
+"Aldosterone receptor antagonists, Potassium-sparing diuretics",5
+Amylin analogs,5
+Anorexiants,5
+Antimetabolites,4
+"Antirheumatics, Interleukin inhibitors",4
+"Group I antiarrhythmics, Hydantoin anticonvulsants",4
+Triazine anticonvulsants,4
+Aminopenicillins,4
+Carbapenems,4
+Miscellaneous bone resorption inhibitors,4
+Skeletal muscle relaxants,4
+PCSK9 inhibitors,4
+"Miscellaneous antihyperlipidemic agents, Vitamins",4
+Antihyperuricemic agents,4
+Miscellaneous antihyperlipidemic agents,4
+"Antiadrenergic agents, peripherally acting",4
+Phenylpiperazine antidepressants,4
+"Antimetabolites, Antipsoriatics, Antirheumatics, Other immunosuppressants",4
+"Benzodiazepine anticonvulsants, Benzodiazepines",4
+Carbapenems / beta-lactamase inhibitors,4
+Loop diuretics,4
+Meglitinides,4
+CGRP inhibitors,4
+"Alpha-adrenoreceptor antagonists, Antiadrenergic agents, peripherally acting",4
+"Phenothiazine antiemetics, Phenothiazine antipsychotics",4
+Parathyroid hormone and analogs,4
+Succinimide anticonvulsants,4
+Adrenergic uptake inhibitors for ADHD,4
+Cephalosporins / beta-lactamase inhibitors,4
+"Amebicides, Miscellaneous antibiotics",4
+Benzodiazepine anticonvulsants,4
+"Group II antiarrhythmics, Non-cardioselective beta blockers",3
+Tetracyclic antidepressants,3
+"Antidiarrheals, Probiotics",3
+Inhaled corticosteroids,3
+Otic steroids,3
+"Antirheumatics, Other immunosuppressants",3
+Miscellaneous genitourinary tract agents,3
+Selective immunosuppressants,3
+"Topical acne agents, Vaginal anti-infectives",3
+"Antigout agents, Antihyperuricemic agents",3
+Corticotropin,3
+Non-sulfonylureas,3
+Alpha-glucosidase inhibitors,3
+Miscellaneous uncategorized agents,3
+Antibiotics / antineoplastics,3
+"Cardioselective beta blockers, Group II antiarrhythmics",3
+Calcineurin inhibitors,3
+Neuraminidase inhibitors,3
+Peripherally acting antiobesity agents,3
+"Nasal antihistamines and decongestants, Nasal steroids",3
+Purine nucleosides,3
+Vasodilators,3
+Topical antivirals,3
+"5-aminosalicylates, Antirheumatics",3
+Thiazolidinediones,3
+"Benzodiazepine anticonvulsants, Benzodiazepines, Miscellaneous antiemetics",3
+Cox-2 inhibitors,3
+Miscellaneous GI agents,2
+"Investigational drugs, Purine nucleosides",2
+Peripheral opioid receptor antagonists,2
+Bile acid sequestrants,2
+"Agents for pulmonary hypertension, Impotence agents",2
+"Dopaminergic antiparkinsonism agents, Prolactin inhibitors",2
+"Antitussives, Opioids (narcotic analgesics)",2
+Phenothiazine antipsychotics,2
+Selective phosphodiesterase-4 inhibitors,2
+Antiadrenergic agents (central) with thiazides,2
+Potassium-sparing diuretics,2
+"Antacids, Phosphate binders",2
+"Miscellaneous anxiolytics, sedatives and hypnotics, Tricyclic antidepressants",2
+"GI stimulants, Miscellaneous antiemetics",2
+Barbiturates,2
+Anticholinergics / antispasmodics,2
+Urinary pH modifiers,2
+"Cox-2 inhibitors, Miscellaneous antihypertensive combinations",2
+Renin inhibitors,2
+Mast cell stabilizers,2
+Gamma-aminobutyric acid reuptake inhibitors,2
+Antimanic agents,2
+Uterotonic agents,2
+Leukotriene modifiers,2
+Antiasthmatic combinations,2
+"Nonsteroidal anti-inflammatory drugs, Salicylates",2
+Miscellaneous antineoplastics,2
+Cholesterol absorption inhibitors,2
+"Antimalarial quinolines, Antirheumatics",2
+Melanocortin receptor agonists,2
+Carbamate anticonvulsants,2
+Psoralens,2
+"Antiviral boosters, Protease inhibitors",2
+Fourth generation cephalosporins,2
+Antiviral boosters,2
+"Dopaminergic antiparkinsonism agents, Monoamine oxidase inhibitors",2
+Next generation cephalosporins,2
+Oxazolidinone antibiotics,2
+Calcitonin,2
+Local injectable anesthetics,2
+"Antihyperlipidemic combinations, Miscellaneous antihypertensive combinations",2
+Chemokine receptor antagonist,2
+"Hormones / antineoplastics, Selective estrogen receptor modulators",2
+Thrombin inhibitors,2
+Glycylcyclines,2
+Glycoprotein platelet inhibitors,2
+"Aminoglycosides, Inhaled anti-infectives",2
+Antipsoriatics,2
+Platelet aggregation inhibitors,2
+Gonadotropins,2
+Miscellaneous antipsychotic agents,2
+Miscellaneous anticonvulsants,2
+Barbiturate anticonvulsants,2
+AMPA receptor antagonists,2
+"Antirheumatics, CD20 monoclonal antibodies",2
+Thrombolytics,2
+"Inhaled anti-infectives, Neuraminidase inhibitors",2
+"Topical acne agents, Topical anti-rosacea agents",2
+Other cephalosporins,2
+"Topical acne agents, Topical antipsoriatics",2
+"Adamantane antivirals, Dopaminergic antiparkinsonism agents",1
+"Glucocorticoids, Inhaled corticosteroids",1
+Anticholinergic antiemetics,1
+"Miscellaneous antidepressants, Smoking cessation agents",1
+"Anticholinergic antiparkinson agents, Antihistamines, Miscellaneous anxiolytics, sedatives and hypnotics",1
+CD52 monoclonal antibodies,1
+Interferons,1
+CD20 monoclonal antibodies,1
+Anthelmintics,1
+Thioxanthenes,1
+"Atypical antipsychotics, Miscellaneous antiemetics",1
+"Barbiturate anticonvulsants, Barbiturates",1
+Immune globulins,1
+Antipseudomonal penicillins,1
+"Contraceptives, Sex hormone combinations",1
+General anesthetics,1
+"Antihistamines, Miscellaneous anxiolytics, sedatives and hypnotics",1
+Progestins,1
+Probiotics,1
+Mouth and throat products,1
+"Anorexiants, CNS stimulants, Miscellaneous anticonvulsants",1
+Skeletal muscle relaxant combinations,1
+Somatostatin and somatostatin analogs,1
+Antigout agents,1

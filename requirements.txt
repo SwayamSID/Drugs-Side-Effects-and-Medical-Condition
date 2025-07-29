@@ -1,0 +1,16 @@
+#Required Libraries
+numpy
+pandas
+matlpotlib
+plotly
+scikit-Learning
+
+#Required Tools
+Python
+Jupyter Notebook
+Machine Learning
+SQL
+Excel
+
+#Techniques Used
+EDA - Exploratory Data Analysis
